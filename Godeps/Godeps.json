@@ -1,0 +1,15 @@
+{
+	"ImportPath": "github.com/catsby/martini_demo",
+	"GoVersion": "go1.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Rev": "07b1cf5ecdb5134a1f79a0efd22900feb306fc31"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/martini",
+			"Comment": "v0.1-5-g3263d1c",
+			"Rev": "3263d1c0e2bfcf5d38d32ee201c681c9a24aedb7"
+		}
+	]
+}
